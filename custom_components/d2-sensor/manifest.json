@@ -1,0 +1,8 @@
+{
+  "domain": "d2sensor",
+  "name": "Destiny 2 Sensor",
+  "documentation": "https://github.com/danrspencer/hass-d2",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@danrspencer"]
+}
